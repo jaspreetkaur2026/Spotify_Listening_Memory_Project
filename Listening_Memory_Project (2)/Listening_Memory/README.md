@@ -2,7 +2,7 @@
 
 A Spotify-themed classroom project for listening discovery, playlist preferences and podcast continuation. All 300 listener histories are synthetic. The app uses the supplied Indian music catalog.
 
-[Open the private app](https://listening-memory-lab-gagan.enthusiasticrhino3.chatgpt.site) · [Watch the demo (earlier layout)](docs/walkthrough.mp4) · [Open the executed EDA notebook](analysis/listening_eda.ipynb)
+[Open the Live Deployed App](https://spotify-personalized-ai-memory.onrender.com/) · · [Watch the demo (earlier layout)](docs/walkthrough.mp4) · [Open the executed EDA notebook](analysis/listening_eda.ipynb)
 
 ## Run on your laptop
 
